@@ -34,3 +34,7 @@ a summer robotics course project.
 - Bluetooth Communication
 - 3D Printing
 - Sensor Fusion
+## Demo Videos
+[Watch Robot Demo 1](https://drive.google.com/file/d/1ckJUBx4-jX_ctRLohLnymQn0XAwF5DZI/view?usp=sharing)
+
+[Watch Robot Demo 2](https://drive.google.com/file/d/1z3CuNJsFRjlwH_uonIc-nTmkQ2bCj5Cd/view?usp=sharing)
